@@ -23,7 +23,7 @@ You can learn about my professional background by visiting my [resume](https://g
 
 The [samples](https://github.com/akshayakolay/Portfolio) are created to demonstrate my abilities as a technical writer. 
 
-The actual documents are not shared due to confidentiality.
+The official work writeups are not shared due to confidentiality.
 
 
 
