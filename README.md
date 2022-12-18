@@ -14,10 +14,8 @@ In the years following that, I worked on drafting User Manuals, Tutorials and  H
 To get an overall understanding of a project from the business point of view,
 I also exposed myself to work with the Pre-sales team on gathering information and drafting, Functional requirement documents, and scope documents.  
 
-But like it is said, change is the only constant. A year ago, I moved to Sweden with my husband away from my home country (India)
+But like it is said, change is the only constant. A year ago, I moved to Sweden with my husband away from my home country (India). Since it was a cultural shift, I tried to get myself acclimatized to the new setup and decided to work as a freelancer.
 
-
-Since it was a cultural shift, I tried to get myself acclimatized to the new setup and decided to work as a freelancer.
 I am curious to learn new things and to broaden my spectrum as a technical writer, I took up courses on DITA XML and API Documentation.
 
 **A small note-**
