@@ -24,7 +24,7 @@ You can learn about my professional background by visiting my resume. Feel free 
 
 This collection of [samples](https://github.com/akshayakolay/Portfolio) was created to demonstrate my abilities as a technical writer. 
 
-I cannot disclose the actual documents due to confidentiality.
+The actual documents are not shared due to confidentiality.
 
 
 
