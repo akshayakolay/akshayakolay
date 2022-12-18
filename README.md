@@ -18,6 +18,8 @@ But like it is said, change is the only constant. A year ago, I moved to Sweden 
 
 I am curious to learn new things and to broaden my spectrum as a technical writer, I took up courses on DITA XML and API Documentation.
 
+You can learn about my professional background by visiting my resume. Feel free to drop a mail at: akshaya.kolay@gmail.com
+
 **A small note-**
 
 This collection of [samples](https://github.com/akshayakolay/Portfolio) was created to demonstrate my abilities as a technical writer. 
