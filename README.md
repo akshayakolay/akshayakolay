@@ -22,7 +22,7 @@ I am curious to learn new things and to broaden my spectrum as a technical write
 
 The samples [here](https://github.com/akshayakolay/Portfolio) are created to showcase my ability as a technical writer.
 
-I cannot disclose the documents according to the NDA signed by the previous employers.
+I cannot disclose the actual documents due to confidentiality
 
 
 
