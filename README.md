@@ -3,8 +3,8 @@
  :seedling: My first brush with technical writing was while drafting a paper on the final year engineering project.
  I vividly remember enjoying writing the paper even more than working on the project.
 
-:woman_technologist: After my graduation, I landed my first job as an Application Developer.
-Since we were a small team we were involved in all the phases of software development –from the coding phase to the deployment and support phase.
+:woman_technologist: I landed my first job as an Application Developer after my graduation.
+Since we were a small team we were involved in all the phases of software development – from the coding phase to the deployment and support phase.
 During that time I had the opportunity to work on some of the documents, for the application we were working on.
 Again, I enjoyed the whole process of crafting the document.
 
