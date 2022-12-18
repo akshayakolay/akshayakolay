@@ -22,7 +22,7 @@ You can learn about my professional background by visiting my resume. Feel free 
 
 **A small note-**
 
-This [samples](https://github.com/akshayakolay/Portfolio) are created to demonstrate my abilities as a technical writer. 
+The [samples](https://github.com/akshayakolay/Portfolio) are created to demonstrate my abilities as a technical writer. 
 
 The actual documents are not shared due to confidentiality.
 
