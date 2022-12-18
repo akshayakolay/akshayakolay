@@ -6,7 +6,7 @@
 :woman_technologist: I landed my first job as an Application Developer after my graduation.
 Since we were a small team we were involved in all the phases of software development – from the coding phase to the deployment and support phase.
 During that time I had the opportunity to work on some of the documents, for the application we were working on.
-Again, I enjoyed the whole process of crafting the document.
+Again, I loved the whole process of crafting the document.
 
 :bulb: That’s when I realized that I enjoy explaining complex information rather than writing code.
 
