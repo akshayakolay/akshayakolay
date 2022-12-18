@@ -20,9 +20,9 @@ I am curious to learn new things and to broaden my spectrum as a technical write
 
 **A small note-**
 
-The samples [here](https://github.com/akshayakolay/Portfolio) are created to showcase my ability as a technical writer.
+This collection of [samples](https://github.com/akshayakolay/Portfolio) was created to demonstrate my abilities as a technical writer. 
 
-I cannot disclose the actual documents due to confidentiality
+I cannot disclose the actual documents due to confidentiality.
 
 
 
