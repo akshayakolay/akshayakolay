@@ -4,7 +4,7 @@
  I vividly remember enjoying writing the paper even more than working on the project.
 
 :woman_technologist: I landed my first job as an Application Developer after my graduation.
-I was part of a small team every member wwas involved in all the phases of software development – from the coding phase to the deployment and support phase.
+I was a part of a small team, and that aspect helped me to get acquainted with all the phases of software development - from the coding stage to the deployment and support phase.
 During that time I had the opportunity to work on some of the documents, for the application we were working on.
 And yet again, I loved the whole process of crafting the document.
 
