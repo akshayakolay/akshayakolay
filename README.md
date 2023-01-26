@@ -13,9 +13,15 @@ And yet again, I loved the whole process of crafting the document.
 In the years following that, I worked on drafting User Manuals, Tutorials and  How to Guides, knowledge articles, POC documents, etc.
 I also got an opportunity to work with the Pre-sales team on gathering information and drafting functional requirements and scope documents.  
 
-But like it is said, change is the only constant. A year ago, I moved to Sweden with my husband away from my home country (India). Since it was a cultural shift, I tried to get myself acclimatized to the new setup and freelanced.
+But like it is said, change is the only constant. A year ago, I moved to Sweden with my husband away from my home country (India). Since it was a cultural shift, I tried to get myself acclimatized to the new setup and freelanced as technical content writer.
+
 
 I am curious to learn new things and to broaden my spectrum as a technical writer, I took up courses on basics of DITA XML and API Documentation.
+
+
+I also enrolled myself at SFI to gain proficiency in the Swedish language and have cleared SFI level C.
+
+Apart from work, I enjoy gardening, learning and doing yoga, reading about geopolitics, going for hikes, and spending time with my family and friends.
 
 You can learn about my professional background by visiting my [resume](https://github.com/akshayakolay/Resume/blob/main/Akshaya%20Kolay_Technical%20Writer_Resume.pdf). Feel free to drop a mail at: akshaya.kolay@gmail.com
 
