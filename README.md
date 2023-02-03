@@ -10,18 +10,29 @@ And yet again, I loved the whole process of crafting the document.
 
 :bulb: That’s when I realized that I enjoy explaining complex information rather than writing code.
 
-In the years following that, I worked on drafting User Manuals, Tutorials and  How to Guides, knowledge articles, POC documents, etc.
-I also got an opportunity to work with the Pre-sales team on gathering information and drafting functional requirements and scope documents.  
+In the years following that, I worked on drafting user manuals, tutorials, How- guides, Reference and POC documents etc. I also got an opportunity to work with the Pre-sales team on gathering information and drafting functional requirements and scope documents. As a freelance technical content writer authored SEO-based articles on the cloud, DevOps etc.
 
-But like it is said, change is the only constant. A year ago, I moved to Sweden with my husband away from my home country (India). Since it was a cultural shift, I tried to get myself acclimatized to the new setup and freelanced as technical content writer.
+As a Technical Writer, here's how I can help a tech company:
 
+- Passionate about researching things and figuring them out. I'm keen to design a document from scratch or discover undocumented features and correct incomplete or outdated guides.
 
-I am curious to learn new things and to broaden my spectrum as a technical writer, I took up courses on basics of DITA XML and API Documentation.
+- Structure and organise the information with logic and clarity. Have created a knowledge base from the ground up and ensured that the knowledge base of 500+ documents was fully integrated with new and updated content across the team.
 
+- I love distilling complex technical information that helps bridge the gap between the product and the user. I am always happy to suggest ways of improving the end product to make it more user-friendly. 
 
-I also enrolled myself at SFI to gain proficiency in the Swedish language and have cleared SFI level C.
+Exposure to Tools
 
-Apart from work, I enjoy gardening, learning and doing yoga, reading about geopolitics, going for hikes, and spending time with my family and friends.
+Authoring: Oxygen XML Editor, GitHub Wiki, Microsoft Word, Swagger Hub and Swagger Editor | CMS: GitHub, Sharepoint
+Diagramming: Microsoft Visio | Editing: Snagit| Development: HTML, CSS, Markdown, YAML and XML
+Other: UiPath, Postman
+
+Skills
+
+Document Development Life Cycle (DDLC) | API Documentation | Topic-Based Authoring |Audience Analysis |Requirement Gathering | Content Review | Editing | Create Diagrams & infographics
+
+I am currently residing in Sweden and have cleared SFI level C. 
+
+Apart from work, I enjoy gardening, learning and doing yoga, and going for hikes.
 
 You can learn about my professional background by visiting my [resume](https://github.com/akshayakolay/Resume/blob/main/Akshaya%20Kolay_Technical%20Writer_Resume.pdf). Feel free to drop a mail at: akshaya.kolay@gmail.com
 
