@@ -12,7 +12,7 @@ And yet again, I loved the whole process of crafting the document.
 
 In the years following that, I worked on drafting user manuals, tutorials, How- guides, Reference and POC documents etc. I also got an opportunity to work with the Pre-sales team on gathering information and drafting functional requirements and scope documents. As a freelance technical content writer authored SEO-based articles on the cloud, DevOps etc.
 
-As a Technical Writer, here's how I can help a tech company:
+ As a Technical Writer, here's how I can help a tech company:
 
 - Passionate about researching things and figuring them out. I'm keen to design a document from scratch or discover undocumented features and correct incomplete or outdated guides.
 
@@ -20,13 +20,13 @@ As a Technical Writer, here's how I can help a tech company:
 
 - I love distilling complex technical information that helps bridge the gap between the product and the user. I am always happy to suggest ways of improving the end product to make it more user-friendly. 
 
-Exposure to Tools
+:mechanic: Exposure to Tools
 
 Authoring: Oxygen XML Editor, GitHub Wiki, Microsoft Word, Swagger Hub and Swagger Editor | CMS: GitHub, Sharepoint
 Diagramming: Microsoft Visio | Editing: Snagit| Development: HTML, CSS, Markdown, YAML and XML
 Other: UiPath, Postman
 
-Skills
+:black_nib: Skills
 
 Document Development Life Cycle (DDLC) | API Documentation | Topic-Based Authoring |Audience Analysis |Requirement Gathering | Content Review | Editing | Create Diagrams & infographics
 
